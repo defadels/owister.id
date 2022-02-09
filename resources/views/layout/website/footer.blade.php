@@ -62,7 +62,7 @@
                     <div class="clear"></div> 
                   </div>
                 </form>  
-              </div>
+              </div> 
               <!--End mc_embed_signup-->
             </div>
             <!-- /.newsletter-wrapper --> 
